@@ -4,8 +4,9 @@
 My medical background makes me a versatile, attentive to detail specialist who likes challenging projects. I want to use my knowledge and skills for influencing the quality of the product and improve the lives of the people who use it.
 
 ## My CV
-[Link to my CV  in English](https://www.canva.com/design/DAFgvsLtuOw/AbAKEDCTEdYE1z-oENY5ug/view?utm_content=DAFgvsLtuOw&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-[Ссылка на мое резюме на русском](https://www.canva.com/design/DAFgvuNqVxk/5d5NnChIs9y3E6giZi2OMw/view?utm_content=DAFgvuNqVxk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+[Link to my CV  in English](https://drive.google.com/file/d/11k0y_JD06qqd7jn3lAkyQHPtWtFa0A8N/view?usp=sharing)
+
+[Ссылка на мое резюме на русском](https://drive.google.com/file/d/1gxc5w9BqguHyP28RJQaSoZfZ5cNvUdlB/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
