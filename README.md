@@ -22,4 +22,7 @@ My medical background makes me a versatile, attentive to detail specialist who l
 
 Testing Documentation
 
-Follow Me
+### Follow Me
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/mifka2001/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/vicamirosh)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/victoria-miroshnichenko/)
