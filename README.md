@@ -8,7 +8,7 @@
 My medical background makes me a versatile, attentive to detail specialist who likes challenging projects. I want to use my knowledge and skills for influencing the quality of the product and improve the lives of the people who use it.
 
 ## My CV
-[Link to my CV  in English]
+[Link to my CV  in English](https://drive.google.com/file/d/1fxUCgszcZGTppk-1j1ppciDX1rZFe6FG/view?usp=sharing)
 
 [Ссылка на мое резюме на русском]
 
